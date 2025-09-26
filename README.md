@@ -1,3 +1,5 @@
+Project for [CSS for JavaScript developers](https://css-for-js.dev/) course.
+
 # Huckleberry Agency Website
 
 In this workshop, you'll build a minimal landing page for an agency.
